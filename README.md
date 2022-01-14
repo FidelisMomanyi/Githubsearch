@@ -34,7 +34,7 @@ If you dont have this requirements you could use the link above to help with the
 
 ## Live link
 
-https://fidelismomanyi.github.io/Github-search/
+https://fidelismomanyi.github.io/Githubsearch/
 
 ## Known Bugs
 
