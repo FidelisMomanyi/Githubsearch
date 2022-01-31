@@ -36,8 +36,6 @@ If you dont have this requirements you could use the link above to help with the
 
 https://fidelismomanyi.github.io/Githubsearch/
 
-http://localhost:4200/Home
-
 ## Known Bugs
 
 * At the moment of cration there are no known bugs. If any contact me.
